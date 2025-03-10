@@ -1,0 +1,2 @@
+# desafiologicasupertrunfo.c
+atividade escolar
